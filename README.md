@@ -10,7 +10,7 @@ This is the live . Click for the demo
  https://atienophanice.github.io/Delani-Studio/
 Image
 
-Setup instructions
+## Setup instructions
 Clone the program from Online repo
 Click on the green button to clone or download
 
