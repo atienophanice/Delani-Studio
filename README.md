@@ -1,6 +1,6 @@
 
 ## DELANI STUDIO
-This project interlinks clients to software developers, Sunday May 5 2019
+This project is a design website that deals with different kind of designs
 By *PHANICE OWINO*
 ## Description
 This project has details on how Delani Studio  works.Also,it allows users to send messages and receive email confirmations n receival of the messages by the company.
@@ -8,7 +8,7 @@ This project has details on how Delani Studio  works.Also,it allows users to sen
 ## Project live site
 This is the live . Click for the demo
  https://atienophanice.github.io/Delani-Studio/
-Image
+
 
 ## Setup instructions
 Clone the program from Online repo
