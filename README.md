@@ -1,4 +1,4 @@
-# IP3
+
 ## DELANI STUDIO
 This project interlinks clients to software developers, Sunday May 5 2019
 By *PHANICE OWINO*
