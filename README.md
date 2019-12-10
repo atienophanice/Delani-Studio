@@ -1,6 +1,6 @@
 
 ## DELANI STUDIO
-This project is a design website that deals with different kind of designs
+This project is a design website that deals with different kind of designs.<br>
 By *PHANICE OWINO*
 ## Description
 This project has details on how Delani Studio  works.Also,it allows users to send messages and receive email confirmations n receival of the messages by the company.
